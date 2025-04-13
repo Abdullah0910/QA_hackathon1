@@ -63,5 +63,5 @@ set LT_ACCESS_KEY=LT_C47INsDKvWIWau0GxpVlsRShaHOq2KzyCESsyu9UEUspcNA
 pip install -r requirements.txt
 
 ## 4. Run the Tests
-pytest
+pytest -s tests
 ## Lambdatest ID : XHQBU-ZPKP3-2BPSN-6KXMG
