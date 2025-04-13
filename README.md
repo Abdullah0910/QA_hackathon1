@@ -52,8 +52,8 @@ Here’s how that was achieved:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Abdullah0910/My_QA_Hackathon.git
-cd My_QA_Hackathon
+git clone https://github.com/Abdullah0910/QA_hackathon.git
+cd QA_Hackathon
 
 ## 2. Set Environment Variables
 set LT_USERNAME=abdullah.goodsamaritan
